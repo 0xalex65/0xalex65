@@ -21,7 +21,6 @@ I'm a seasoned Blockchain Developer based in Bulgaria, passionate about leveragi
 
 ## 📫 How to Reach Me
 - **Email:** [0xalex65@gmail.com](mailto:0xalex65@gmail.com)
-- **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/alex-ivanov-blockchain)
 
 ---
 
